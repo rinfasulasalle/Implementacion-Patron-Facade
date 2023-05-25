@@ -1,5 +1,3 @@
-Claro, aquí tienes una explicación en primera persona para una presentación en formato `readme.md`:
-
 # Patrón de diseño de Fachada en C++
 
 ## Introducción
